@@ -1,6 +1,6 @@
 package String;
 
-public class IPv6_Detection {
+public class Defanging_IP_Address {
     public static String ipv6Detection(String s){
         return s.replace("." , "[.]");
     }

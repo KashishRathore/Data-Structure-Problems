@@ -1,6 +1,6 @@
 package String;
 
-public class Sum_Of_Operations {
+public class Performing_Operations {
     public static int sumOfOperations(String[] operations){
          int x = 0;
          for(int i=0; i<operations.length; i++){
